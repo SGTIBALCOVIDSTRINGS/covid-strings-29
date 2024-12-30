@@ -17,171 +17,171 @@ public fun with graphics(){
 jpanel color panel=new j panel();
 this add (panel,center)
 jpanel button panel=
-New J Panel (Flowlayout.Center)
-ButtonPanel.Add(RandomButton);
-Random.Button Add ActionListener(New Action Listener)
-Override 
-Public ActionPerformed(ActionEvent E)
-Random R= NewRandom();
-ColorPanel.SetBackground(New Color (RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),)(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13),(RNextInt(13)))
+new j panel (flowlayout.center)
+buttonpanel.add(randombutton);
+random.button add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+random r= newrandom();
+colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
 num teams
 total players players per team
 if players per team=0
 return zero
 return math floor total players/players per team
 teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
-ButtonPanel.Add(OptionButton);
-OptionButton.Add ActionListener(New Action Listener)
-Override 
-Public ActionPerformed(ActionEvent E)
-Color M=JColorChooser.ShowDialog(FunWithGraphics.This,)
-If(Multi!=Null)
-Color Panel Set.Background(Multi)
-This.Add(ButtonPanel, BorderLayout.South)
-Public Static Main(String [] Args)
-JFrame F = New Covid Strings29)
-F.Set Title(Covid Strings29)
-F.Set Default CloseOperation(JFrame. Exit_On_Close);
-F.SetSize
-F.Set Visible(True);
-<Label Id=LblScore>Zero</Label>
-Var Score=Zero
-If (Mult == X*Y)
-[Non-Concatenated]
-Score+=Ten
-Else:
-Score-=Ten
-If (Mult == X*Y)
-[Concatenated]
-Score+=Twenty
-Else:
-Score-=Twenty
-LblScore= Document.GetElementbyId(LblScore)
-Lbl.Score.InnerHTML=Score
-Public ActionPerformed(Action Event E) 
-System.Out Print.In (Next Button Clicked)
-Frame.Add(Next Button);
-Frame Set Visible True
-Object {A:One, B:Two, C:Three, D:Four, E:Five, F:Six, G:Seven, H:Eight}
-Keys Object Keys(Team)
-Entries Object Entries(Obj);
-Value Object= [Team Color]
-Covid Strings Team List29=[Black,Burgundy,Red,White,Orange,Green,Blue,Yellow]
-Covid Strings Phrase List29=[Covid Oral History Should Not Just Be Limited To New York City
-Bird Flu Being100 Times Worse Than Covid Is A Reminder That Deadly Pandemics Dont Just Wait100 Years
-100 Years From Now People Will Wonder About How People Dealt With Covid
-Dont Assume That Any Pandemic Follows A100 Year Cycle 
-Perhaps The Bigger Point Is The Idea That People Want Certainty Whenever Something Like Covid Happens
-Visually Covid Will Certainly Be Worse Than When It Started
-Covid Though Has Changed Society Even After One Year Let Alone100
-The Next50 Years Could Be Filled With Coronavirus Or Non-Coronavirus Pandemics
-Concatenated
-The+Worst+Pandemic+Pre-Covid+Would+Certianly+Be+The+Spanish+Flu
-There+Have+Been+Plenty+Of+Plagues+Pre-Covid+That+Have+Changed+History
-The+WHOs+Pandemic+Phase+Program+Certainly+Has+Covid+As+A+Future+Pandemic
-This+Is+Because+It+Passed+All+Six+Phases
-Psychic+Nick+Aujula+Was+Somewhat+Right+About+Covid+Ending+In+2022
-He+Also+Claimed+To+Forsee+It+In+2018
-Unfortunately+Covid+Will+More+Likely+Be+An+Era+Than+A+Phase
-Even+So+Talking+About+It+Is+Hard+Even+With+Some+Oral+History]
-Covid Strings Multiple Choice List29=[1:A Wonder B Forget C Be On Mars D Be Reading A Computer Citation,2:A Pre B Post C During D Happening Simultaneously,3: A Pale Rider B Oral C Digital D30 Rock,4:A Mapping B Talking C Doing A Post-Mortem D Turning The Page,5:A100 B50 C10 D5,6:A Chinese B Korean C Spanish D Kansas,7:A Certainty B A Scapegoat C Revenge D Respect,8:A2022 B2023 C3409 D2011,9:A3218 B2018 C2004 D2059,10:A Long Winters Night B Era C Footnote D Blank Space,11:A50 B500 C100 D1000,12:A1/16Th B1/8Th C1 D2,13:A In Practice B Visually C In Theory D Definitely]
-Covid Strings29 Math Problems List=[If A Line Of The Next50 Years Showed The Number Of Coronavirus Pandemics Increased Per Year What Is The Relationship?,If A Line With A  Slope Of 1/32  And  A Y Intercept Of16 Had5 Year Intervals What Would The Y Coordinate Be If The X Coordinate Was15 Years?,If The Previous Point Was Reflected Across The X Axis What Are The New Coordinates?,If The Previous Point Was Rotated270 Degrees Clockwise What Is The Range?,If The Previous Point Was Translated16 Units Down And7 Units To The Left What Is The New Point?,If The Previous Point Was Translated 17/32 Units Up And17 Units To The Left What Is The New Point?,If The Previous Point Was Translated4Units Up And20 Units To The Right What Is The New Point?,If The Previous Point Was Translated3Units Up And1Unit To The Right, What Is The New Point?,If+59+Percent+Of+Americans+Believe+That+100+Years+From+Now+Americas+Covid+Response+Will+Be+Viewed+As+Terrible+What+Percent+Dont?,If+41+Percent+Strongly+Believe+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+10.18+Percent+What+Is+The+Range?,If+68+Percent+Agree+With+The+New+York+Times+That+Covid+Is+Still+Confusing+After+3+Years+What+Percent+Dont?,If+42+Percent+Mildy+Agree+What+Percent+Is+Strong?,If+The+Margin+Of+Error+Is+8.6+Percent+What+Is+The+Range?]
-Covid Strings Scrambled Phrase List29 =[Ovicd+Rea,Erciams+Ovicd+Storyhi]
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Myclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Import Syntax
-Chart JS 
-Def Gradient
-Id=MyGradient
-GradientUnits=UserSpaceOnUse
-X1=Selected Number
-Y1=16
-X2=15
-Y2= X2*1/32+Y1
-Stop Offset=0 Stop-Color=FF0000
-Stop Offset=1 Stop Color=0000FF
-<LinearGradient>
-<Filter
-Id=Linear1
-FilterUnits=Objectboundingbox
-X=0%
-Y=0%
-Width=100%
-Height=100%
-<FeComponentTransfer>
-<FefuncCovidStrings  Type=Linear Slope>=1
-TransformationList=[Reflection,Rotation,Translation]
-If Reflection==X Axis:
-Shift X Axis
-Else:
-Remain
-If Rotation==270 Degrees Clockwise:
-Shift 270 Degrees Clockwise
-Else:
-Remain
-If Translation==(-7,-16):
-Shift 7 Units To The Left And 16 Units Down
-Else:
-Remain
-If Translation==(-17,32):
-Shift 17 Units To The Left And 32 Units Up
-Else:
-Remain
-Substring(Start,End)
-Userin.Multiple Choice
-If (S1.Length())!=S2.Length: 
-Return False
-If S1.Length()==S2.Length:
-Return True
-Char[]Arr1= S1.ToCharArray
-Char [] Arr2= S2.ToCharArray
-Arrays.Sort(Arr1)
-Arrays.Sort(Arr2)
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-If Selectedanswer=Not Correct:
-Return False
-Else:
-Return True
-Answer Checker
-Scanner=New Scanner(System.In)
-String Correct Answer
-String UserAnswer=Scanner.NextLine()
-If UserAnswer.Equals((CorrectAnswer))
-System.Out.Print.In(Correct)
-Else:
-System.Out.PrintIn(Incorrect)
-Scanner.Close
-Check Winner:
-If Winner==True:
-Log(The Winner Is)
-If Winner==False:
-Log(No Winner Yet) 
-Return Filename
+buttonpanel.add(optionbutton);
+optionbutton.add actionlistener(new action listener)
+override 
+public actionperformed(actionevent e)
+color m=jcolorchooser.showdialog(funwithgraphics.this)
+if(multi!=null)
+color panel set.background(multi)
+this.add(buttonpanel,borderlayout.south)
+public static main(string [] args)
+jframe f = new covid strings29)
+f.set title(covid strings29)
+f.set default closeoperation(jframe. exit_on_close);
+f.setsize
+f.set visible(true);
+<label id=lblscore>zero</label>
+score=zero
+if (mult == x*y)
+[non-concatenated]
+score+=ten
+else:
+score-=ten
+if (mult == x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object= [team color]
+covid strings team list29=[black,burgundy,red,white,orange,green,blue,yellow]
+covid strings phrase list29=[ non-concatenated covid oral history should not just be limited to new york city
+bird flu being100 times worse than covid is a reminder that deadly pandemics dont just wait100 years
+100 years from now people will wonder about how people dealt with covid
+dont assume that any pandemic follows a100 year cycle 
+perhaps the bigger point is the idea that people want certainty whenever something like covid happens
+visually covid will certainly be worse than when it started
+covid though has changed society even after one year let alone100
+the next50 years could be filled with coronavirus or non-coronavirus pandemics
+concatenated
+the+worst+pandemic+pre-covid+would+certianly+be+the+spanish+flu
+there+have+been+plenty+of+plagues+pre-covid+that+have+changed+history
+the+whos+pandemic+phase+program+certainly+has+covid+as+a+future+pandemic
+this+is+because+it+passed+all+six+phases
+psychic+nick+aujula+was+somewhat+right+about+covid+ending+in+2022
+he+also+claimed+to+forsee+it+in+2018
+unfortunately+covid+will+more+likely+be+an+era+than+a+phase
+even+so+talking+about+it+is+hard+even+with+some+oral+history]
+covid strings multiple choice list29=[1:a wonder b forget c be on mars d be reading a computer citation,2:a pre b post c during d happening simultaneously,3:a pale rider b oral c digital d30 rock,4:a mapping b talking c doing a post-mortem d turning the page,5:a100 b50 c10 d5,6:a chinese b korean c spanish d kansas,7:a certainty b a scapegoat c revenge d respect,8:a2022 b2023 c3409 d2011,9:a3218 b2018 c2004 d2059,10:a long winters night b era c footnote d blank space,11:a50 b500 c100 d1000,12:a1/16th b1/8th c1 d2,13:a in practice b visually c in theory d definitely]
+covid strings29 math problems list=[if a line of the next50 years showed the number of coronavirus pandemics increased per year what is the relationship?,if a line with a slope of 1/32 and a y intercept of16 had5 year intervals what would the y coordinate be if the x coordinate was15 years?,if the previous point was reflected across the x axis what are the new coordinates?,if the previous point was rotated270 degrees clockwise what is the range?,if the previous point was translated16 units down and7 units to the left what is the new point?,if the previous point was translated 17/32 units up and17 units to the left what is the new point?,if the previous point was translated4units up and20 units to the right what is the new point?,if the previous point was translated3units up and1unit to the right, what is the new point?,if+59+percent+of+americans+believe+that+100+years+from+now+americas+covid+response+will+be+viewed+as+terrible+what+percent+dont?,if+41+percent+strongly+believe+what+percent+is+mild?,if+the+margin+of+error+is+10.18+percent+what+is+the+range?,if+68+percent+agree+with+the+new+york+times+that+covid+is+still+confusing+after+3+years+what+percent+dont?,if+42+percent+mildy+agree+what+percent+is+strong?,if+the+margin+of+error+is+8.6+percent+what+is+the+range?]
+covid strings scrambled phrase list29 =[ovicd+rea,erciams+ovicd+storyhi]
+userin.select team
+import meta.
+class myclass
+constructor (non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax
+chart js 
+def gradient
+id=mygradient
+gradientunits=userspaceonuse
+x1=selected number
+y1=16
+x2=15
+y2= x2*1/32+y1
+stop offset=0 stop-color=ff0000
+stop offset=1 stop color=0000ff
+<lineargradient>
+<filter
+id=linear1
+filterunits=objectboundingbox
+x=0%
+y=0%
+width=100%
+height=100%
+<fecomponenttransfer>
+<fefunccovidstrings  type=linear slope>=1
+transformationlist=[reflection,rotation,translation]
+if reflection==X Axis:
+shift x axis
+else:
+remain
+if rotation==270 degrees clockwise:
+shift 270 degrees clockwise
+else:
+remain
+if translation==(-7,-16):
+shift 7 units to the left and 16 units down
+else:
+remain
+if translation==(-17,32):
+shift 17 units to the left and 32 units up
+else:
+remain
+substring(start,end)
+userin.multiple choice
+if (s1.length())!=s2.length: 
+return false
+if s1.length()==s2.length:
+return true
+char[]arr1=s1.tochararray
+char[]arr2= s2.tochararray
+arrays.sort(arr1)
+arrays.sort(arr2)
+if selectedanswer==correct answer:
+return true
+else:
+return false
+if selectedanswer=not correct:
+return false
+else:
+return true
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals(correctanswer)
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet) 
+return filename
