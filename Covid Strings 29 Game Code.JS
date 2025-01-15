@@ -184,5 +184,9 @@ check winner:
 if winner==true:
 log(the winner is)
 if winner==false:
-log(no winner yet) 
+log(no winner yet)
+if users team wins covid strings29
+console log users team wins covid strings29
+else
+return game over
 return filename
