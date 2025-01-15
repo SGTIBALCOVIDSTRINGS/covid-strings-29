@@ -1,11 +1,11 @@
 doc.type.html
 script
-filename=covidstrings29gamecode.js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=documentgetelementbyid(header)
 src.appendchild(this.img)
+filename=covidstrings29gamecode.js
+java.awt graphics 
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
